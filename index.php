@@ -39,6 +39,9 @@
 
 <body>
     <div>
+        <img src="Simple-Portfolio\image\mebaby.jpg" alt="">
+    </div>
+    <div>
         <h1>Simple Portfolio Website</h1>
         <h1>Name: Ricardo T. Macagba Jr.</h1>
         <h1>Role: Backend Developer</h1>
@@ -47,6 +50,14 @@
             I am a quick learner and always eager to learn new technologies. <br><br>
             I am looking for a challenging role in a reputable organization to utilize my skills and grow as a professional.
         </h1>
+    </div>
+    <div>
+        <h1>List Of Project</h1>
+        <h1>1. PHP</h1>
+        <h1>2. MySQL</h1>
+        <h1>3. HTML</h1>
+        <h1>4. CSS</h1>
+        <h1>5. JavaScript</h1>
     </div>
 <footer>
     <h1>
